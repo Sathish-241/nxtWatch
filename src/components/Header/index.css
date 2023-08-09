@@ -1,0 +1,16 @@
+.moon-icon {
+  height: 30px;
+  width: 30px;
+}
+.profile-icon {
+  height: 30px;
+  width: 30px;
+  background-color: #64748b;
+  color: white;
+  border-radius: 50%;
+}
+.sun-icon {
+  color: white;
+  height: 30px;
+  width: 30px;
+}
